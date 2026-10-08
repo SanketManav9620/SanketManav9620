@@ -21,7 +21,7 @@ I build scalable web applications, AI-powered products, and backend systems that
 🎓 B.Tech | Bhagwan Parshuram Institute of Technology (Batch of 2027)
 💻 Full-Stack Developer (React, Node.js, Next.js)
 ⚙️ Interested in Backend, Queues & Scalable Systems
-🧠 Practicing DSA in C++ | 230+ LeetCode problems solved
+🧠 Practicing DSA in C++ | 300+ coding problems solved
 🤖 Building AI-powered products & ML projects
 🚀 Shipping production-oriented projects
 📚 Currently exploring System Design & GenAI
@@ -155,11 +155,6 @@ I enjoy turning ideas into **real, working software** — from polished React in
 
 ## 🧩 LeetCode Progress
 
-<p align="center">
-  <a href="https://leetcode.com/u/Sanket_kumar_/">
-    <img src="https://leetcard.jacoblin.cool/Sanket_kumar_?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
 
 | 📊 Metric | 🏆 Value |
 |---|---|
